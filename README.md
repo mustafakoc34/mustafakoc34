@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m an a mechanical engineer and I'm taking a course to be a front-end developer.
+- 🔭 I’m an a mechanical engineer and I'm taking a course to be a software developer.
 - 🌱 I’m currently learning javascript.
 - 📫 How to reach me: www.linkedin.com/in/mustafakoc34
 <!--
